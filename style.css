@@ -158,7 +158,7 @@
   }
   header h2 {
     position: absolute;
-    top: 25%; right: 10%;
+    top: 230px; right: 190px;
     font-size: 4.3rem;
     text-transform: uppercase;
     font-weight: 300;
@@ -167,7 +167,7 @@
   header p {
     margin-top: 30px;
     position: absolute;
-    top: 55%; right: 8.5%;
+    top: 510px; right: 160px;
     font-size: 1.1rem;
     text-transform: uppercase;
     color: #000;
@@ -176,7 +176,7 @@
     border: var(--border);
     border-radius: 5px;
     position: absolute;
-    top: 73%; right: 28.5%;
+    top: 663px; right: 490px;
     padding: 10px 60px;
   }
   header .banner_btn:hover {
@@ -201,7 +201,7 @@
     line-height: 55px;
     background-color: rgba(68, 68, 68, 0.447);
     position: absolute;
-    right: 0; bottom: 50%;
+    right: 0; bottom: 400px;
     cursor: pointer;
   }
   .side_btn_lt svg {
@@ -221,7 +221,7 @@
     line-height: 55px;
     background-color: rgba(68, 68, 68, 0.447);
     position: absolute;
-    left: 0; bottom: 50%;
+    left: 0; bottom: 400px;
     cursor: pointer;
   }
   .side_btn_rh:hover {
@@ -269,7 +269,7 @@
     padding: 50px;
   }
   main #main_intro .main_intro_inner {
-    padding: 2vw;
+    padding: 3vw;
   }
   main #main_intro h2 {
     font-size: 2rem;
@@ -292,7 +292,7 @@
   }
   main .banner_digitar h2 {
     position: absolute;
-    top: 31%; right: 11.5%;
+    top: 300px; right: 190px;
     font-size: 3.7rem;
     font-weight: bold;
     line-height: 1.2;
@@ -320,12 +320,12 @@
   }
   main .banner_digitar .dot_lt {
     position: absolute;
-    top: 85%; right: 50%;
+    top: 800px; right: 830px;
     background-color: green;
   }
   main .banner_digitar .dot_o {
     position: absolute;
-    top: 85%; right: 49%;
+    top: 800px; right: 850px;
     background-color: rgb(114, 151, 114);
   }
   main .banner_digitar .dot_o:hover {
@@ -333,7 +333,7 @@
   }
   main .banner_digitar .dot_rt {
     position: absolute;
-    top: 85%; right: 48%;
+    top: 800px; right: 870px;
     background-color: rgb(114, 151, 114);
   }
   main .banner_digitar .dot_rt:hover {
@@ -353,7 +353,7 @@
     flex-wrap: wrap;
   }
   .business_bg {
-    height: 40vh;
+    height: 350px;
     position: relative;
   }
   .bg01 {
@@ -469,7 +469,7 @@
   }
   #main_banner .layer {
     background: url(./이미지/img-06.jpg) no-repeat 50% / cover;
-    height: 50vh;
+    height: 400px;
     padding: 80px;
   }
   #main_banner .layer h2 {
@@ -504,12 +504,12 @@
   }
   #main_banner .layer .banner_dt1  {
     position: absolute;
-    top: 85%; right: 50%;
+    top: 360px; right: 850px;
     background-color: green;
   }
   #main_banner .layer .banner_dt2  {
     position: absolute;
-    top: 85%; right: 49%;
+    top: 360px; right: 830px;
     background-color: rgba(255, 255, 255, 0.685);
   }
   #main_banner .layer .banner_dt2:hover {
