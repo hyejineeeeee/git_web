@@ -133,7 +133,7 @@
   }
   .roll_btn {
     position: absolute;
-    left: 820px; bottom: 0;
+    right: 900px; bottom: 0;
   }
   .roll_btn svg {
     width: 55px; height: 55px;
@@ -176,7 +176,7 @@
     border: var(--border);
     border-radius: 5px;
     position: absolute;
-    top: 663px; right: 490px;
+    top: 663px; right: 495px;
     padding: 10px 60px;
   }
   header .banner_btn:hover {
@@ -292,7 +292,7 @@
   }
   main .banner_digitar h2 {
     position: absolute;
-    top: 300px; right: 190px;
+    top: 300px; right: 220px;
     font-size: 3.7rem;
     font-weight: bold;
     line-height: 1.2;
@@ -305,7 +305,7 @@
   }
   main .banner_digitar img {
     position: absolute;
-    top: 50%; right: 50%;
+    top: 470px; right: 950px;
     transform: translate(15%, -50%);
     width: 800px;
   }
@@ -504,12 +504,12 @@
   }
   #main_banner .layer .banner_dt1  {
     position: absolute;
-    top: 360px; right: 850px;
+    top: 360px; right: 950px;
     background-color: green;
   }
   #main_banner .layer .banner_dt2  {
     position: absolute;
-    top: 360px; right: 830px;
+    top: 360px; right: 930px;
     background-color: rgba(255, 255, 255, 0.685);
   }
   #main_banner .layer .banner_dt2:hover {
